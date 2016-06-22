@@ -1921,6 +1921,10 @@ ul.social_icons li	a i{
 	/* font-size: 16px; */
 }
 
+#contact-info{
+	padding-bottom: 0;
+}
+
 #contact-page{
 	padding-top: 0;
 }
